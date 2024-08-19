@@ -33,7 +33,7 @@ Contains the code using the analytical solution functions for a bSSFP profile an
 ***********
 One complete phantom and volunteer data set is available for download in the following public zenodo repository: 
 
-https://zenodo.org/records/10286634
+https://zenodo.org/records/13342533
 
 ***********
 
