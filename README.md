@@ -1,5 +1,5 @@
 # ORACLE
-Code for simulation, phantom data and in-vivo data
+Code for numerical simulations of phase-cycled bSSFP profiles, code for processing phantom and in-vivo phase-cycled bSSFP data
 **********
 Matlab code to simulate phase-cycled bSSFP profiles (in presence of noise). Quantification of T1, T2, off-resonance and proton density using the ORACLE framework. Correction for aliasing effects in the DFT modes of bSSFP profiles. Code for reading out phantom raw data and in-vivo raw data. Code for coil combination using phase-cycled bSSFP. 
 
