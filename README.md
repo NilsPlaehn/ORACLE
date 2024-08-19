@@ -14,23 +14,19 @@ Contains the (Monte-Carlo simulation) code to simulate noisy bSSFP profiles and 
 
 Contains the code to correct for the aliasing effects in modes obtained via a discrete Fourier transformation. The upper maximal error bound is calculated for different T1, T2 and off-resonance values in dependence of the number of sampled RF phase increments.
 
-3) "S_bSSFP_Case2.m":
-
-Contains the incorrect phase description to describe multi-compartment PC bSSFP profiles. 
-
-4) E1_ReadRawData_Phantom:
+3) E1_ReadRawData_Phantom:
 
 Contains the code to read out phase-cycles bSSFP raw data from Siemens scanners based on the data structure used for the phantom experiments. 
 
-5) E2_ReadRawData_InVivo:
+4) E2_ReadRawData_InVivo:
 
 Contains the code to read out phase-cycles bSSFP raw data from Siemens scanners based on the data structure used for the in-vivo experiments. 
 
-6) Coil_Combination
+5) Coil_Combination
 
 Contains a fast and easy code for coil combination using phase-cycles bSSFP data. To the best of our knowlegde this method is not published and if questions arise or further details for explaination are desired please do not hesitate to contact me. 
 
-7) ORACLE
+6) ORACLE
 
 Contains the code using the analytical solution functions for a bSSFP profile and the proposed aliasing correction method.
 
