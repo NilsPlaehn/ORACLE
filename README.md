@@ -31,7 +31,7 @@ Contains a fast and easy code for coil combination using phase-cycles bSSFP data
 Contains the code using the analytical solution functions for a bSSFP profile and the proposed aliasing correction method.
 
 ***********
-Experimental data can be found on the following public repository: 
+One complete phantom and volunteer data set is available for download in the following public zenodo repository: 
 
 https://zenodo.org/records/10286634
 
