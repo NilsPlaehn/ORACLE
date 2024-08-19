@@ -24,7 +24,7 @@ Contains the code to read out phase-cycled bSSFP raw data from Siemens scanners 
 
 5) Coil_Combination
 
-Contains a fast and easy code for coil combination using phase-cycles bSSFP data. To the best of our knowlegde this method is not published and if questions arise or further details for explaination are desired please do not hesitate to contact me. 
+Contains a fast and easy code for coil combination using phase-cycles bSSFP data. To the best of our knowlegde this method is not published and if questions arise or further details for explaination are desired please do not hesitate to contact us. 
 
 6) ORACLE
 
@@ -35,3 +35,10 @@ One complete phantom and volunteer data set is available for download in the fol
 
 https://zenodo.org/records/10286634
 
+***********
+
+Contact:  
+Nils MJ Plähn, Bern, Switzerland
+E-mail: nils.plaehn@students.unibe.ch
+Department of Diagnostic, Interventional and Pediatric Radiology (DIPR), Inselspital, Bern University Hospital, University of Bern, Switzerland
+Translation Imaging Center (TIC), Swiss Institute for Translational and Entrepreneurial Medicine, Bern, Switzerland
