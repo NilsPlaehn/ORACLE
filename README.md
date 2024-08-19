@@ -16,11 +16,11 @@ Contains the code to correct for the aliasing effects in modes obtained via a di
 
 3) E1_ReadRawData_Phantom:
 
-Contains the code to read out phase-cycles bSSFP raw data from Siemens scanners based on the data structure used for the phantom experiments. 
+Contains the code to read out phase-cycled bSSFP raw data from Siemens scanners based on the data structure used for the phantom experiments. 
 
 4) E2_ReadRawData_InVivo:
 
-Contains the code to read out phase-cycles bSSFP raw data from Siemens scanners based on the data structure used for the in-vivo experiments. 
+Contains the code to read out phase-cycled bSSFP raw data from Siemens scanners based on the data structure used for the in-vivo experiments. 
 
 5) Coil_Combination
 
