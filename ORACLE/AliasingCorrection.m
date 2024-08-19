@@ -1,3 +1,10 @@
+% Description: Aliasing correction
+
+% Author of function: 
+% Nils MJ Plähn, Bern, Switzerland
+% E-mail: nils.plaehn@students.unibe.ch
+% Department of Diagnostic, Interventional and Pediatric Radiology (DIPR), Inselspital, Bern University Hospital, University of Bern, Switzerland
+% Translation Imaging Center (TIC), Swiss Institute for Translational and Entrepreneurial Medicine, Bern, Switzerland
 
 
 function [Ab,Bb,zb,xib]=AliasingCorrection(c0,cm1,c1,nPC,percent)
