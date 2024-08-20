@@ -82,7 +82,7 @@ for indT1 = 1:nT1
         B0tmp2 = zeros(1,nvari);
         for inditer = 1:nvari 
             profile0 = zeros(1,nPC);
-            theta =1;  %rand(1)*100;
+            theta    = 4*pi*rand(1);
             for indPC = 1:nPC
                 profile0(indPC) = S1_bSSFP_Profile_Generation(M0,T1,T2,alpha,phi(indPC),TR,TE,theta);
             end
