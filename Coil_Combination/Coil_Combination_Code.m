@@ -15,13 +15,6 @@
 
 
 
-% Author of function: 
-% Nils MJ Plähn, Bern, Switzerland
-% E-mail: nils.plaehn@students.unibe.ch
-% Department of Diagnostic, Interventional and Pediatric Radiology (DIPR), Inselspital, Bern University Hospital, University of Bern, Switzerland
-% Translation Imaging Center (TIC), Swiss Institute for Translational and Entrepreneurial Medicine, Bern, Switzerland
-
-
 clear all
 
 
