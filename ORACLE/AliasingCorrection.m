@@ -1,4 +1,4 @@
-% Description: Aliasing correction
+% Description: Aliasing correction using fixed-point iterations
 
 % This code is for research purposes only.
 
