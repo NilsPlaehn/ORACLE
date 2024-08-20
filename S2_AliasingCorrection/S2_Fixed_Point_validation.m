@@ -1,3 +1,9 @@
+% Author of function: 
+% Nils MJ Plähn, Bern, Switzerland
+% E-mail: nils.plaehn@students.unibe.ch
+% Department of Diagnostic, Interventional and Pediatric Radiology (DIPR), Inselspital, Bern University Hospital, University of Bern, Switzerland
+% Translation Imaging Center (TIC), Swiss Institute for Translational and Entrepreneurial Medicine, Bern, Switzerland
+
 
 function [A_inf,B_inf,z_inf,A_fin,B_fin,z_fin,Ab,Bb,zb,xib,xi_fin] = Fixed_Point_validation(T1,T2,nPC,percent,indvari,nvari,nPC_infty)
     TR      = 5/1000;  
