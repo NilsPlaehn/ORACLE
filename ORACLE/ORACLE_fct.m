@@ -28,7 +28,7 @@
 %   while c0=Ab, cm1=Bb*conj(zb) and c1 = Ab*zb
 %   This takes more time but corrects for eventual aliasing if low nPC are used 
 
-function [T1_est,T2_est, theta,M0] = S1_ORACLE_fct(bSSFPSignal,TR,alpha)
+function [T1_est,T2_est, theta,M0] = ORACLE_fct(bSSFPSignal,TR,alpha)
 
     %% 1) Pre-Quantification
     % i) uniformly distributed RF phase increments (if not started at 0° can
