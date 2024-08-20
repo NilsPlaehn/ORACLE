@@ -9,7 +9,7 @@
 % Translation Imaging Center (TIC), Swiss Institute for Translational and Entrepreneurial Medicine, Bern, Switzerland
 
 
-% Coil combination code is not published. This code is for research purposes only. 
+% Coil combination code is not published. 
 % If questions arise please contact: nils.plaehn@students.unibe.ch
 
 
