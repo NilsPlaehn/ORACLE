@@ -39,7 +39,7 @@ https://zenodo.org/records/13342533
 ***********
 
 Contact:  
-Nils MJ Plähn, Bern, Switzerland
+Nils MJ Plähn
+
 E-mail: nils.plaehn@students.unibe.ch
-Department of Diagnostic, Interventional and Pediatric Radiology (DIPR), Inselspital, Bern University Hospital, University of Bern, Switzerland
-Translation Imaging Center (TIC), Swiss Institute for Translational and Entrepreneurial Medicine, Bern, Switzerland
+
