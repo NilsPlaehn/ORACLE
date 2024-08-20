@@ -75,6 +75,6 @@ function [T1_est,T2_est, theta,M0] = ORACLE_fct(bSSFPSignal,TR,alpha)
 
     % gamma = 2*pi*42.577*10^(6); % MHz/T for 1H protons
     % df    = theta/TR/2/pi;% if chemical shift is neglected
-    % dB0   = theta/gamma; % if chemical shift is neglected
+    % dB0   = theta/gamma/TR; % if chemical shift is neglected
 end
 
