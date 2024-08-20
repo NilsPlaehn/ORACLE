@@ -1,5 +1,7 @@
 % Description: Aliasing correction
 
+% This code is for research purposes only.
+
 % Author of function: 
 % Nils MJ Plähn, Bern, Switzerland
 % E-mail: nils.plaehn@students.unibe.ch
