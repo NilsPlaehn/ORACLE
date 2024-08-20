@@ -1,4 +1,4 @@
-function profile = S_bSSFP_Profile_Generation(M0,T1,T2,alpha,phi,TR,TE,theta)
+function profile = S1_bSSFP_Profile_Generation(M0,T1,T2,alpha,phi,TR,TE,theta)
 
 % Description: generation of PC-bSSFP profiles for opposite signs
 
