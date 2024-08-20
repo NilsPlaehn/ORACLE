@@ -1,3 +1,7 @@
+% Description: 
+% DFT over RF phase increments to obtain Fourier coefficients
+
+
 function Gp = NPointFT(MatInput,order,phi)
     N = numel(MatInput);
     tmp = 0;
