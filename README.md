@@ -25,7 +25,7 @@ Contains the code to read out phase-cycled bSSFP raw data from Siemens scanners 
 
 5) Coil_Combination
 
-Contains a fast and easy code for coil combination using phase-cycles bSSFP data. To the best of our knowlegde this method is not published and if questions arise or further details for explaination are desired please do not hesitate to contact us. 
+Contains a fast and easy code for coil combination using phase-cycles bSSFP data. 
 
 6) ORACLE
 
