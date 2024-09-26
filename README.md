@@ -35,6 +35,15 @@ Contains the code using the analytical solution functions for a bSSFP profile an
 
 Contains a Mathematica script to derive the aliasing correction equations. If you cannot open Mathematica files, the script is also available as the pdf file "Aliasing_Correction_derivation.pdf", to understand the individual steps to obtain those equations.
 
+8) E1_derivation.nb
+Contains a Mathematica script to derive the analytical expression for E1 in the paper (Eq.[7]). Alternatively a pdf file is also available as "E1_derivation.pdf"
+
+9) M0_derivation.nb
+Contains a Mathematica script to derive the analytical expression for M0 in the paper (Eq.[9]). Alternatively a pdf file is also available as "M0_derivation.pdf"
+
+
+
+
 ***********
 One complete phantom and volunteer data set is available for download in the following public zenodo repository: 
 
