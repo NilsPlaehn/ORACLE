@@ -33,7 +33,7 @@ Contains the code using the analytical solution functions for a bSSFP profile an
 
 7) Aliasing_Correction_derivation.nb
 
-Contains a Mathematica script to derive the aliasing correction equations.
+Contains a Mathematica script to derive the aliasing correction equations. If you cannot open Mathematica files, the script is also available as the pdf file "Aliasing_Correction_derivation.pdf".
 
 ***********
 One complete phantom and volunteer data set is available for download in the following public zenodo repository: 
