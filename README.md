@@ -31,6 +31,10 @@ Contains a fast and easy code for coil combination using phase-cycles bSSFP data
 
 Contains the code using the analytical solution functions for a bSSFP profile and the proposed aliasing correction method.
 
+7) Aliasing_Correction_derivation.nb
+
+Contains a Mathematica script to derive the aliasing correction equations.
+
 ***********
 One complete phantom and volunteer data set is available for download in the following public zenodo repository: 
 
