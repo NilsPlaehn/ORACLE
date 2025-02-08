@@ -1,5 +1,5 @@
-# ORACLE (https://doi.org/10.1002/mrm.30388)
-Code for numerical simulations of phase-cycled bSSFP profiles, code for processing phantom and in-vivo phase-cycled bSSFP data
+# ORACLE
+Code for numerical simulations of phase-cycled bSSFP profiles, code for processing phantom and in-vivo phase-cycled bSSFP data. https://doi.org/10.1002/mrm.30388
 **********
 N. Plaehn & J. Bastiaansen are inventors on a patent describing ORACLE
 **********
